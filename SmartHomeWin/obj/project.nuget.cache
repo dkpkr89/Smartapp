@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpdItEuQE2rjFpNezNdwwT6FNJOEfURep7m5t6K0tCWwhp/SMQuHkgjD2Bt3NjD19QE4JZ2qtJu7CPBgSsSCVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\16305\\Downloads\\Win-TuyaSmart\\SmartHomeWin\\SmartHomeWin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16305\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\16305\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
